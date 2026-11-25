@@ -1,0 +1,9 @@
+---
+title: "principal"
+author: "Lilou Pierret"
+date: "2026-11-25"
+output: github_document
+---
+
+essaie 
+

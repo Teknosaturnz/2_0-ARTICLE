@@ -1,0 +1,14 @@
+---
+title: "installation"
+author: "Lilou Pierret"
+date: "2026-11-25"
+output: github_document
+---
+
+```{r}
+install.packages("BiocManager")
+BiocManager::install("dada2")
+BiocManager::install("phyloseq")
+```
+https://www.ebi.ac.uk/ena/browser/home : site pour récup les séquences
+
